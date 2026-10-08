@@ -35,7 +35,7 @@ Currently, I work as a **Quantum Machine Learning Research Intern at Amadeus**, 
 
 ## 📫 Get In Touch
 
-* 📧 **Email**: [swann.cordier@ens-paris-saclay.fr](mailto:swann.cordier@ens-paris-saclay.fr)
+* 📧 **Email**: [swann.cordier5413@gmail.com](mailto:swann.cordier5413@gmail.com)
 * 💼 **LinkedIn**: [Swann Cordier](https://www.linkedin.com/in/swann-cordier-1aa404258)
 
 ---
